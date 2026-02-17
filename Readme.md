@@ -2,6 +2,8 @@
 
 A lightweight, line-based text editor built using Python and Streamlit. This application allows users to create, view, edit, and manage text files directly through a web interface. It is fully containerized and includes a CI/CD pipeline for automated testing.
 
+[Link for the Application](https://sjy-text-editor.streamlit.app/)
+
 ## 🌟 Features
 
 * **Line-by-Line Editing:** View and manipulate text files based on line numbers.
